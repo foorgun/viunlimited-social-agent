@@ -26,11 +26,14 @@ def standalone(dc_html: str) -> str:
     if not helmet or not body:
         raise ValueError("Unerwartetes Artboard-Format")
     head = helmet.group(1)
+    # Uploads im Canvas (/_blob/<id>) zeigen lokal auf assets/ (z. B. das Logo)
+    logo = "file://" + os.path.join(ROOT, "assets", "logo.png")
+    body_html = re.sub(r"/_blob/[0-9a-f]+", logo, body.group(1))
     return (
         "<!doctype html><html lang='de'><head><meta charset='utf-8'>"
         f"{head}<style>html,body{{margin:0;width:{W}px;height:{H}px;overflow:hidden;background:#141215}}"
         "#strip{position:absolute;top:0;left:0}</style></head>"
-        f"<body><div id='strip'>{body.group(1)}</div></body></html>"
+        f"<body><div id='strip'>{body_html}</div></body></html>"
     )
 
 
