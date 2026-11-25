@@ -25,7 +25,11 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUEUE = os.path.join(ROOT, "posts", "queue.json")
 STATE = os.path.join(ROOT, "state", "published.json")
-GRAPH = "https://graph.facebook.com/" + os.environ.get("GRAPH_VERSION", "v23.0")
+# Facebook-Login-Token (Page-Token, beginnt meist mit "EAA"): graph.facebook.com
+# Instagram-Login-Token (beginnt mit "IG"): graph.instagram.com
+_token = os.environ.get("IG_ACCESS_TOKEN", "")
+_host = os.environ.get("GRAPH_HOST") or ("graph.instagram.com" if _token.startswith("IG") else "graph.facebook.com")
+GRAPH = f"https://{_host}/" + os.environ.get("GRAPH_VERSION", "v23.0")
 
 
 def load(path):
