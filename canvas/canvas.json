@@ -1,0 +1,90 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-25T07:18:00Z"
+ },
+ "title": "ViUnlimited Posts Woche 1–2",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 5400,
+   "h": 1350,
+   "title": "Woche 1 · Dienstag · Erstes Training"
+  },
+  "Knie.dc.html": {
+   "x": 0,
+   "y": 1510,
+   "w": 5400,
+   "h": 1350,
+   "title": "Woche 1 · Freitag · Technik Knie"
+  },
+  "Ausreden.dc.html": {
+   "x": 0,
+   "y": 3020,
+   "w": 5400,
+   "h": 1350,
+   "title": "Woche 2 · Dienstag · 3 Ausreden"
+  },
+  "Frauen.dc.html": {
+   "x": 0,
+   "y": 4530,
+   "w": 5400,
+   "h": 1350,
+   "title": "Woche 2 · Freitag · Frauen-Thaiboxen"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "Knie.dc.html",
+  "Ausreden.dc.html",
+  "Frauen.dc.html"
+ ],
+ "notes": {
+  "title": {
+   "x": 0,
+   "y": -320,
+   "text": "ViUnlimited · Carousels Woche 1–2 (je 5 Slides à 1080×1350)",
+   "kind": "title1",
+   "maxW": 5400
+  },
+  "cap1": {
+   "x": 5480,
+   "y": 0,
+   "w": 1000,
+   "size": "m",
+   "fill": "gray",
+   "text": "Caption & Hashtags\n\nDEIN ERSTES MUAY-THAI-TRAINING 🥊\n\nRespekt vor dem ersten Mal? Völlig normal. So läuft dein Start bei uns ab:\n\n1️⃣ Ankommen: Sportkleidung reicht, trainiert wird barfuß\n2️⃣ Aufwärmen mit Sinn: jede Übung schult deine Technik\n3️⃣ Technik Step by Step: Sparring ist kein Muss\n\nEgal ob Anfänger oder Fortgeschrittener, bei uns bist du gut aufgehoben.\n\n👉 Sichere dir dein kostenloses Probetraining. Schreib uns eine DM.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #MuayThai #Thaiboxen #Probetraining #Anfänger #Ulm #Kampfsport"
+  },
+  "cap2": {
+   "x": 5480,
+   "y": 1510,
+   "w": 1000,
+   "size": "m",
+   "fill": "gray",
+   "text": "Caption & Hashtags\n\nDAS KNIE IM MUAY THAI 🦵\n\nEine der gefährlichsten Waffen im Muay Thai, aber nur, wenn es richtig sitzt:\n\n1️⃣ Nicht nur nach vorne stoßen: die Hüfte schiebt mit\n2️⃣ Die richtige Distanz: erst lesen, dann treffen\n3️⃣ Timing: wenn der Gegner in dich hineinläuft\n\n📌 Speichern für dein nächstes Training.\n\nTechnik statt Ego. Willst du es mit Coach Ulvi lernen? Schreib uns eine DM für dein kostenloses Probetraining.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #MuayThai #Knee #Technik #Training #Ulm #Kampfsport"
+  },
+  "cap3": {
+   "x": 5480,
+   "y": 3020,
+   "w": 1000,
+   "size": "m",
+   "fill": "gray",
+   "text": "Caption & Hashtags\n\n3 AUSREDEN, DIE BEI UNS NICHT ZÄHLEN 💪\n\n„Ich bin nicht fit genug.“ Fit wirst du im Training, nicht davor.\n„Ich will nicht geschlagen werden.“ Sparring ist freiwillig.\n„Ich hab keine Zeit.“ 12 Kurse pro Woche, irgendeiner passt.\n\nWelche Ausrede hattest du? Schreib sie in die Kommentare 👇\n\n👉 Jetzt kostenlos testen. Schreib uns eine DM.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #Kampfsport #Fitness #Motivation #Anfänger #Ulm #Gym"
+  },
+  "cap4": {
+   "x": 5480,
+   "y": 4530,
+   "w": 1000,
+   "size": "m",
+   "fill": "gray",
+   "text": "Caption & Hashtags\n\nEXKLUSIV FÜR FRAUEN: THAIBOXEN 🥊\n\nNoch nie gekämpft? Perfekt. Bei uns lernst du alles von Grund auf, von Frauen, für Frauen.\n\n💥 Power, Technik & Bodyforming\n👥 Ein Team nur aus Frauen\n🔥 Kein Ego, kein Druck\n\n📅 Dienstag 19:00 Uhr & Sonntag 10:00 Uhr\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n🎁 2 Wochen gratis testen: Schreib uns eine DM mit „FRAUEN“.\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #Frauenkampfsport #Thaiboxen #MuayThai #Selbstbewusstsein #Ulm #Fitness"
+  }
+ },
+ "designSystems": []
+}

@@ -1,0 +1,43 @@
+{
+  "themes": {
+    "A": "Einsteiger",
+    "B": "Technik",
+    "C": "Menschen & Erfolge",
+    "D": "Angebot mit Szene",
+    "E": "Mythen & Ausreden"
+  },
+  "posts": [
+    {
+      "id": "w1-di",
+      "theme": "A",
+      "theme_name": "Einsteiger",
+      "canvas_file": "Main.dc.html",
+      "slide_count": 5,
+      "caption": "DEIN ERSTES MUAY-THAI-TRAINING 🥊\n\nRespekt vor dem ersten Mal? Völlig normal. So läuft dein Start bei uns ab:\n\n1️⃣ Ankommen: Sportkleidung reicht, trainiert wird barfuß\n2️⃣ Aufwärmen mit Sinn: jede Übung schult deine Technik\n3️⃣ Technik Step by Step: Sparring ist kein Muss\n\nEgal ob Anfänger oder Fortgeschrittener, bei uns bist du gut aufgehoben.\n\n👉 Sichere dir dein kostenloses Probetraining. Schreib uns eine DM.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #MuayThai #Thaiboxen #Probetraining #Anfänger #Ulm #Kampfsport"
+    },
+    {
+      "id": "w1-fr",
+      "theme": "B",
+      "theme_name": "Technik",
+      "canvas_file": "Knie.dc.html",
+      "slide_count": 5,
+      "caption": "DAS KNIE IM MUAY THAI 🦵\n\nEine der gefährlichsten Waffen im Muay Thai, aber nur, wenn es richtig sitzt:\n\n1️⃣ Nicht nur nach vorne stoßen: die Hüfte schiebt mit\n2️⃣ Die richtige Distanz: erst lesen, dann treffen\n3️⃣ Timing: wenn der Gegner in dich hineinläuft\n\n📌 Speichern für dein nächstes Training.\n\nTechnik statt Ego. Willst du es mit Coach Ulvi lernen? Schreib uns eine DM für dein kostenloses Probetraining.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #MuayThai #Knee #Technik #Training #Ulm #Kampfsport"
+    },
+    {
+      "id": "w2-di",
+      "theme": "E",
+      "theme_name": "Mythen",
+      "canvas_file": "Ausreden.dc.html",
+      "slide_count": 5,
+      "caption": "3 AUSREDEN, DIE BEI UNS NICHT ZÄHLEN 💪\n\n„Ich bin nicht fit genug.“ Fit wirst du im Training, nicht davor.\n„Ich will nicht geschlagen werden.“ Sparring ist freiwillig.\n„Ich hab keine Zeit.“ 12 Kurse pro Woche, irgendeiner passt.\n\nWelche Ausrede hattest du? Schreib sie in die Kommentare 👇\n\n👉 Jetzt kostenlos testen. Schreib uns eine DM.\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #Kampfsport #Fitness #Motivation #Anfänger #Ulm #Gym"
+    },
+    {
+      "id": "w2-fr",
+      "theme": "D",
+      "theme_name": "Angebot",
+      "canvas_file": "Frauen.dc.html",
+      "slide_count": 5,
+      "caption": "EXKLUSIV FÜR FRAUEN: THAIBOXEN 🥊\n\nNoch nie gekämpft? Perfekt. Bei uns lernst du alles von Grund auf, von Frauen, für Frauen.\n\n💥 Power, Technik & Bodyforming\n👥 Ein Team nur aus Frauen\n🔥 Kein Ego, kein Druck\n\n📅 Dienstag 19:00 Uhr & Sonntag 10:00 Uhr\n📍 ViUnlimited Gym · Industriestraße 5/2 · 89081 Ulm-Lehr\n\n🎁 2 Wochen gratis testen: Schreib uns eine DM mit „FRAUEN“.\n\n#ViUnlimited #KampfsportUlm #FitnessUlm #MuayThaiUlm #FightYourLimits #Frauenkampfsport #Thaiboxen #MuayThai #Selbstbewusstsein #Ulm #Fitness"
+    }
+  ]
+}
